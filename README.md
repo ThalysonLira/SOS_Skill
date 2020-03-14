@@ -1,6 +1,6 @@
 # SOS_Skill
 
-## **Autor:** Thalyson Lira Nunes
+## **Autor**: Thalyson Lira Nunes
 
 ## **Propósito:** Esta Skill tem o propósito de facilitar a ajuda em situações de emergência.
 
