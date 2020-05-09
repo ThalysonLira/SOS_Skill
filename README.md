@@ -6,6 +6,6 @@
 
 ## Público Alvo: Todos.
 
-## Funcionalidades: Ao executar o gatilho, a Alexa encaminhará mensagens e/ou efetuará uma ligação pelo telefone celular do usuário. Esta comunicação com o aparelho será realizada através do disparo pela intent SOSIntent e fará comunicação com um aplicativo instalado no mesmo. O aplicativo ficará encarregado de armazenar uma lista de contatos de emergência, que poderá ser personalizada pelo usuário.
+## Funcionalidades: Ao executar o gatilho, a Alexa encaminhará mensagens e/ou efetuará uma ligação. Será realizada uma comunicação entre a intent SOSIntent com a plataforma de comunicação ZENVIA.
 
-## Mapa da Intent: Basta falar "Alexa, socorro", "Alexa, preciso de ajuda" ou "Alexa, SOS". A skill fará um disparo para o aplicativo no aparelho celular do usuário e enviará mensagens ou fará uma ligação para os contatos na lista de emergência.
+## Mapa da Intent: Basta falar "Alexa, socorro", "Alexa, preciso de ajuda" ou "Alexa, SOS". A skill enviará mensagens ou fará uma ligação para os contatos na lista de emergência.
